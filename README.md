@@ -5,7 +5,7 @@ Our Fire Frequency Analyzer app is designed to help you easily count and analyze
 
 - Export Data: Easily export your fire frequency data in various formats for further analysis or reporting.
 
--Chart Creation: Generate insightful charts to visualize the data and gain a deeper understanding of fire frequency.
+- Chart Creation: Generate insightful charts to visualize the data and gain a deeper understanding of fire frequency.
 
 - User-Friendly Interface: Intuitive and easy-to-use interface designed for users of all technical backgrounds.
 
